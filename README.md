@@ -1,5 +1,6 @@
 # kotlin-popup-menu
 
+Kotlinのポップアップメニューの勉強
 トースト、intentで指定のサイトに飛ばす方法、リフレクション、popup menuの学習。
 
 トップページ
